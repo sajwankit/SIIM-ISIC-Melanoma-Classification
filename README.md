@@ -17,9 +17,8 @@ The entire dataset has 1.8% malignant images. Each TFRecord contains 1.8% malign
 Some patients have as many as 115 images and some patients have as few as 2 images. When isolating patients into TFRecords, each record has an equal number of patients with 115 images, with 100, with 70, with 50, with 20, with 10, with 5, with 2, etc. This makes validation more reliable.
 
 Below are 15 plots showing the histogram of patients and their counts within each TFRecord.
-<a href="url"><img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/siiim/images/stratified_data.png" align="left" height="200" width="480" ></a>  
+<a href="url"><img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/siiim/images/stratified_data.png" align="center" height="360" width="720" ></a>  
   
-
 
     
 Leak Free - Remove Duplicates
