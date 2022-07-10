@@ -52,3 +52,6 @@ The entire dataset has 1.8% malignant images. Each fold contains 1.8% malignant 
 
 **Stratify 3 - Balance Patient Count Distribution**  
 Some patients have as many as 115 images and some patients have as few as 2 images. When isolating patients into folds, each record has an equal number of patients.
+
+### Experiment Result (For a selected setting)
+<img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/siiim/images/exp_result.png" align="center" height="360" width="720" >
