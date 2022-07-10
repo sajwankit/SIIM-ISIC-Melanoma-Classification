@@ -9,7 +9,7 @@ https://www.kaggle.com/c/siim-isic-melanoma-classification
 https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard
 > Secured a **Solo Silver Medal** (103<sup>rd</sup> amongst 3308 teams) on kaggle private leaderboard
 
-<a href="https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard"><img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/siiim/images/kaggle_lb.png" align="center" height="200" width="720" ></a> 
+<a href="https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard"><img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/main/images/kaggle_lb.png" align="center" height="200" width="720" ></a> 
 
 ---
 
@@ -54,4 +54,4 @@ The entire dataset has 1.8% malignant images. Each fold contains 1.8% malignant 
 Some patients have as many as 115 images and some patients have as few as 2 images. When isolating patients into folds, each record has an equal number of patients.
 
 ### Experiment Result (For a selected setting)
-<img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/siiim/images/exp_result.png" align="center" height="360" width="720" >
+<img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/main/images/exp_result.png" align="center" height="360" width="720" >
