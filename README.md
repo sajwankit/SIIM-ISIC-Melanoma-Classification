@@ -1,5 +1,5 @@
 # SIIM-ISIC Melanoma Classification
-## Identify Melanoma In Lesion Images
+**Identify Melanoma In Lesion Images**
 
 ---
 
@@ -13,7 +13,7 @@ https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard
 
 ---
 
-### Data
+## Data
 
 * [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
 * [ISIC 2019 TFRecords 256x256](https://www.kaggle.com/cdeotte/isic2019-256x256)
@@ -28,7 +28,7 @@ https://www.kaggle.com/c/siim-isic-melanoma-classification/leaderboard
 
 ---
 
-### Solution Overview
+## Solution Overview
  
 * Built a deep learning architecture: an ensemble of **convolutional neural network models** with goal to be robust against **overfitting**
 * Centered on the **EfficientNet** family of CNNs,
@@ -53,5 +53,5 @@ The entire dataset has 1.8% malignant images. Each fold contains 1.8% malignant 
 **Stratify 3 - Balance Patient Count Distribution**  
 Some patients have as many as 115 images and some patients have as few as 2 images. When isolating patients into folds, each record has an equal number of patients.
 
-### Experiment Result (For a selected setting)
+## Experiment Result (For a selected setting)
 <img src="https://github.com/sajwankit/SIIM-ISIC-Melanoma-Classification/blob/main/images/exp_result.png" align="center" height="360" width="720" >
